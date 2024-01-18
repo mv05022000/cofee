@@ -1,0 +1,29 @@
+.head{
+    width: 100%;
+    height: 300px;
+    background-image: url(/pics/backgrnd.jpg);
+   /* height: 100%;
+*/
+background-repeat:no-repeat ;
+background-size: cover;
+}
+.div{
+    width: 100%;
+    height: 1300px;
+    background-color: rgb(233, 168, 217);
+}
+#d1{
+    width: 100%;
+ border: 1px solid black;
+  background-color: rgb(233, 142, 172);
+   
+}
+#img:hover{
+   
+transform: scale(1.5);
+}
+#img{
+    height: 150px;
+    width: 150px;
+padding: 80px;
+}
